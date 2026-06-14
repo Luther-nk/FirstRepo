@@ -18,8 +18,9 @@ I am an IT and telecommunications professional with over 15 years of internation
 | Repository | Description | Technologies |
 |---|---|---|
 | [Multi-Site-Enterprise-Network-Deployment](https://github.com/Luther-nk/Multi-Site-Enterprise-Network-Deployment) | Full Windows Server 2025 infrastructure for a distributed enterprise (Progreso Corp) — AD DS, DNS, DHCP, RRAS | Windows Server 2025, PowerShell, Active Directory, DHCP, RRAS |
-
-> Additional cybersecurity and Azure networking labs coming soon.
+| [DAC-Secure-Data-Access-Lab](https://github.com/Luther-nk/DAC-Secure-Data-Access-Lab) | Dynamic Access Control (DAC) implementation — AD DS claims, FSRM content classification, Kerberos armoring, and attribute-based access control | Windows Server 2025, Active Directory, FSRM, Group Policy, Kerberos |
+| [Azure-Network-Security-Labs](https://github.com/Luther-nk/Azure-Network-Security-Labs) | Hands-on Azure networking and security labs — NSGs, Azure Firewall, DDoS Protection, WAF, Private Link, ExpressRoute | Microsoft Azure, NSG, Azure Firewall, WAF, Private Link |
+| [Cybersecurity-Analyst-Toolkit](https://github.com/Luther-nk/Cybersecurity-Analyst-Toolkit) | Practical toolkit for security analysts — PowerShell scripts, incident response checklists, log analysis, and system hardening guides | PowerShell, Windows Security, CIS Benchmarks, NIST SP 800-53 |
 
 ---
 
@@ -39,8 +40,8 @@ I am an IT and telecommunications professional with over 15 years of internation
 
 **Networking:** TCP/IP, VLANs, RRAS, DHCP, DNS, BGP, OSPF, MPLS, RAN (LTE/5G)  
 **Cloud:** Microsoft Azure (NSGs, VNet, ExpressRoute, Azure Firewall, Front Door, Traffic Manager, Private Link)  
-**Security:** Network segmentation, DDoS protection, WAF, Azure Defender, CompTIA Security+ concepts  
-**Systems:** Windows Server 2025, Active Directory, Group Policy, PowerShell automation  
+**Security:** Dynamic Access Control, Kerberos Claims, FSRM, Network segmentation, DDoS protection, WAF, Azure Defender, CompTIA Security+ concepts  
+**Systems:** Windows Server 2025, Active Directory, Group Policy, PowerShell automation, FSRM  
 **Tools:** Wireshark, Network Watcher, Cisco IOS, VMware, Hyper-V  
 **Languages:** English (professional), French (native)
 
